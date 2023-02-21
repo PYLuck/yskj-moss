@@ -1,2 +1,0 @@
-# yskj-moss
-all
